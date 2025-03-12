@@ -25,10 +25,4 @@ I’m Muhammed Safvan MP from Malappuram, Kerala, a passionate MERN Stack develo
 
 
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
