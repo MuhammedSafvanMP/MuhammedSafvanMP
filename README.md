@@ -24,5 +24,14 @@ I’m Muhammed Safvan MP from Malappuram, Kerala, a passionate MERN Stack develo
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+###
+
+<br clear="both">
+
+![snake gif](https://github.com/MuhammedSafvanMP/MuhammedSafvanMP/blob/output/github-snake-dark.svg)
+
+###
+
+
 
 
