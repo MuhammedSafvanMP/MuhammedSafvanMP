@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Muhammed Safvan MP from Malappuram, Kerala, a passionate MERN Stack developer from India. Currently working as a freelancer, I specialize in building dynamic and scalable web applications.
+I’m Muhammed Safvan MP from Malappuram, Kerala, a passionate MERN Stack developer from India. Currently working as a Full Stack Developer, I specialize in building dynamic and scalable web applications.
 
 
 ## 🌐 Socials:
