@@ -3,7 +3,7 @@ I’m Muhammed Safvan MP from Malappuram, Kerala, a passionate MERN Stack develo
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-safvan-mp-207a79359/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21384179/muhammed-safvan-mp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mpmuhammedsafvan@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://muhammed-safvan-mp.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-safvan-mp-207a79359/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21384179/muhammed-safvan-mp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mpmuhammedsafvan@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://safu-nu.vercel.app/)
 
 
 
